@@ -1,0 +1,5 @@
+{
+  "require": {
+    "cure-dao/cure-dao-sdk-php": "dev-main"
+  }
+}
